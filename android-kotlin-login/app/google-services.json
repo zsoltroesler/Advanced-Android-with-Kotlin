@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70833314636",
+    "firebase_url": "https://kotlin-login-example.firebaseio.com",
+    "project_id": "kotlin-login-example",
+    "storage_bucket": "kotlin-login-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70833314636:android:05b6c9fd9befd54b9c4de9",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70833314636-mjmmbci2ll178uqm1bad4c2o73evukm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKICxdQ4QBRqOiYv6_iSBeoJ1Uu554Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70833314636-mjmmbci2ll178uqm1bad4c2o73evukm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
